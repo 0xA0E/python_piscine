@@ -15,7 +15,6 @@ plants = [
     Plant("Cactus", 15, 120)
 ]
 
-
 print("=== Garden Plant Registery ===")
 for plant in plants:
     print_info(plant)
